@@ -2,7 +2,6 @@
 # see https://github.com/github/gitignore/blob/master/Swift.gitignore
 
 
-
 #
 # *.lock - this is used and abused by many editors for many different things.
 #    For the main ones I use (e.g. Eclipse), it should be excluded
@@ -108,5 +107,3 @@ Temporary Items
 
 # vim
 *.swp
-
-
